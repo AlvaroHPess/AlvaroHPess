@@ -20,10 +20,6 @@
 
 ###
 
-<img align="left" height="150" src="https://media-exp1.licdn.com/dms/image/C4E03AQERH0l7iXtzLA/profile-displayphoto-shrink_800_800/0/1643658572597?e=1662595200&v=beta&t=m853wy-7UZKNb4k2JiBkNNi_dwhFMr2wwDYWLeI2E3o"  />
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&username=AlvaroHPess" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=bear&hide_border=false&username=AlvaroHPess" height="150" alt="languages graph"  />
@@ -53,9 +49,6 @@
   </a>
   <a href="https://twitter.com/caldas_pessanha" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="wolfoda#1046" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCRi89LjxagLwfYtXPpcqmNA" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
