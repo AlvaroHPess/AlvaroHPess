@@ -33,8 +33,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/AlvaroHPess/AlvaroHPess/blob/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <h5 align="center">Você pode me encontrar por aqui ...</h5>
